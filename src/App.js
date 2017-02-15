@@ -10,9 +10,9 @@ class App extends Component {
           <img src={avatar} className="App-avatar" alt="avatar" />
           <h2>Brandon's First React App</h2>
         </div>
-        <p className="App-intro">
+        <h3 className="App-intro">
           This is my "Hello World" React App.
-        </p>
+        </h3>
       </div>
     );
   }
